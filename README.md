@@ -10,4 +10,5 @@ This project demonstrates two basic programming concepts using Python:
 Make sure you have Python installed. Then run the file from your terminal:
 
 ```bash
-python assignment.py
+python coinflip.py
+python matrixmultiplication.py
